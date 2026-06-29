@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ADS DASHBOARD GIVEHADA",
+  "description": "Trang web phân tích và báo cáo hiệu quả quảng cáo Facebook Ads trong tháng 6, hỗ trợ lọc theo nhóm chiến dịch, nhập dữ liệu tùy chỉnh và tạo nhận xét thông minh bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
